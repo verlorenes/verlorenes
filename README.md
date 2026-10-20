@@ -1,20 +1,25 @@
-<h2 align="left">Hi 👋! My name is REDACTED and I'm a lil silly dev, from Russia</h2>
+<div align="center">
 
-###
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m verlorenes"></picture>
 
-<div/> <align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=verlorenes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=My%20lil%20stats" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=verlorenes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&custom_title=Languages%20I%20love" height="150" alt="languages graph"  />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/verlorenes/verlorenes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-verlorenes-dark.svg"><img src="assets/project-verlorenes-light.svg" width="49%" alt="verlorenes"></picture></a>&nbsp;<a href="https://github.com/verlorenes/test-bio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-test-bio-dark.svg"><img src="assets/project-test-bio-light.svg" width="49%" alt="test-bio"></picture></a>
+
+<a href="https://github.com/verlorenes/aimwhere"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aimwhere-dark.svg"><img src="assets/project-aimwhere-light.svg" width="49%" alt="aimwhere"></picture></a>&nbsp;<a href="https://github.com/verlorenes/leetscripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-leetscripts-dark.svg"><img src="assets/project-leetscripts-light.svg" width="49%" alt="leetscripts"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/verlorenes?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=verlorenes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verlorenes/verlorenes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/verlorenes/verlorenes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/verlorenes/verlorenes/output/pacman-contribution-graph.svg">
-</picture>
-
-###
