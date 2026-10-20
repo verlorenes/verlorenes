@@ -17,7 +17,9 @@
     "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "projects"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
@@ -119,19 +121,19 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/framegov"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.gg/QgB7yEyz"
       },
       {
         "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://x.com/vbmetahater"
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "filled",
     "card": true
   },
   "buttons": {
@@ -139,7 +141,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://aimwhere.cyou",
         "style": "filled"
       },
       {
