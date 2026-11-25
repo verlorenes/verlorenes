@@ -1,5 +1,5 @@
 {
- "key": "3661fdae",
+ "key": "da626f",
  "stars": 0,
  "contributions": 41,
  "repos": 23,
@@ -111,9 +111,13 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
