@@ -1,5 +1,5 @@
 {
- "key": "da626f",
+ "key": "cb52c730",
  "stars": 0,
  "contributions": 41,
  "repos": 23,
@@ -116,9 +116,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
